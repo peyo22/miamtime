@@ -1,15 +1,10 @@
-Syntax highlighted code block
+# Miamtime
 
-# Header 1
-## Header 2
-### Header 3
+## Toto
 
-- Bulleted
-- List
+bla
 
-1. Numbered
-2. List
+### lbusd
 
-**Bold** and _Italic_ and `Code` text
+bliblu
 
-[Link](url) and ![Image](src)
