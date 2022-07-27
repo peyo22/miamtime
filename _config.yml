@@ -1,3 +1,6 @@
+title: miamtime
+description: Des recettes
+show_downloads: false
 theme: jekyll-theme-slate
 github:
   is_project_page: false
